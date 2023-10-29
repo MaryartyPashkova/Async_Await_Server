@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ПРВ_Эхо_Сервер/1.0.0": {
+        "runtime": {
+          "ПРВ_Эхо_Сервер.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ПРВ_Эхо_Сервер/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

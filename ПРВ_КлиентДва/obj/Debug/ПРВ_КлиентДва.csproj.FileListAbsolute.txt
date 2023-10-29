@@ -1,0 +1,11 @@
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\bin\Debug\ПРВ_КлиентДва.exe.config
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\bin\Debug\ПРВ_КлиентДва.exe
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\bin\Debug\ПРВ_КлиентДва.pdb
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.csproj.SuggestedBindingRedirects.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.Form1.resources
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.Properties.Resources.resources
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.csproj.GenerateResource.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.exe
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Эхо_Сервер\ПРВ_КлиентДва\obj\Debug\ПРВ_КлиентДва.pdb
